@@ -5,6 +5,7 @@ This work presents RC-Mixup, a novel data augmentation technique specifically de
 
 # Citation
 If you find this work useful, please cite our paper:
+```bibtex
 @inproceedings{hwang2024rc,
   title={RC-Mixup: A Data Augmentation Strategy against Noisy Data for Regression Tasks},
   author={Hwang, Seong-Hyeon and Kim, Minsu and Whang, Steven Euijong},
@@ -12,3 +13,4 @@ If you find this work useful, please cite our paper:
   pages={1155--1165},
   year={2024}
 }
+```
