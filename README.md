@@ -3,15 +3,15 @@ This repository contains the official implementation of our paper accepted at KD
 # Abstract
 This work presents RC-Mixup, a novel data augmentation technique specifically designed to improve regression model performance in the presence of noisy data. Our method combines robust regression principles with mixup augmentation to create synthetic training samples that enhance model generalization.
 
-## Quick Start
+# Quick Start
 
-### Command Line Usage
 ```bash
 # Run with default parameters
 python main.py
 
 # Customize parameters
 python main.py --noise_ratio 0.5 --alpha 1.5 --warmup_epochs 500 --batch_size 64
+```
 
 # Citation
 If you find this work useful, please cite our paper:
